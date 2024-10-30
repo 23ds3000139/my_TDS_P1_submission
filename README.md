@@ -1,3 +1,3 @@
-- Used a lot of help from ChatGPT to scrape.
+- Used a lot of help from ChatGPT to scrape and manual checking to see if things are working fine.
 - A surprising finding is that hireable users follow, on average, 46.915 more people than non-hireable users.
 - Developers aiming to increase visibility and engagement should consider making themselves hireable, as they tend to be more active in following and connecting with others.
